@@ -1,0 +1,14 @@
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csprojAssemblyReference.cache
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
+C:\Users\Leighton\Documents\College\Sem 2\QA\Assignment 1\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csprojAssemblyReference.cache
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
+C:\Users\Leighton\Documents\College\Sem 2\QA\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
